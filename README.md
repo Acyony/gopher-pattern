@@ -47,7 +47,7 @@ Have fun!!!
 > 36 - < 5sc, 1dec(6x) >  => 36st <br>
 > 37 - < 4sc, 1dec(6x) >  => 30st <br>
 > 38 - < 3sc, 1dec(6x) >  => 24st <br>
-> 39 - < 2sc, 1dec(6x) >  => 18st <br>  !!!! Remember to fill with the Polyester fiber before finishing the Gopher! :)
+> 39 - < 2sc, 1dec(6x) >  => 18st <br>  !!!! Remember to fill with the Polyester fiber before finishing the Gopher! :)<br>
 > 40 - < 1sc, 1dec(6x) > => 18st <br>
 > 41 - < 1dec(6x)  => Finished <br>
 
