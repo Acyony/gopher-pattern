@@ -104,5 +104,6 @@ Have fun!!!
 > 2 - 3sc, < 1inc(3x) > 4sc,  < 1inc(2x) > => 12st <br>
 > 3 - 4 ( repeat 2 rounds)  => 12st <br>
 
+> The finished Gopher is 15cm tall.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
