@@ -9,6 +9,7 @@ I hope that, like me, you will like the idea and make lots of them. <br>
 Remember to send me pictures, I will love to see the Gophers you make.
 Have fun!!!
 
+If you like the idea, please considere starring my repo :)
 
 
 
