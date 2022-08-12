@@ -9,7 +9,7 @@ I hope that, like me, you will like the idea and make lots of them. <br>
 Remember to send me pictures, I will love to see the Gophers you make.
 Have fun!!!
 
-If you like the idea, please considere starring my repo :)
+If you like the idea, please consider starring my repo :)
 
 
 
@@ -20,6 +20,10 @@ If you like the idea, please considere starring my repo :)
 > Yarn cotton (color of your choice) <br>
 > Crochet hook 2.5mm <br>
 > Polyester fiber to fill <br>
+> White felt for making the teeth <br>
+> Plastic Safety Eyes 10mm <br>
+> Plastic Safety Nose 12mm <br>
+** You can also choose different sizes if you prefer. ** 
 
 > ## abreviations <br>
 > st - stitch <br>
