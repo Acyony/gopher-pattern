@@ -92,6 +92,7 @@ If you like the idea, please consider starring my repo :)
 > 2 - 1inc(6x) => 12st <br>
 > 3 - < 1sc, 1inc(6x) > => 18st <br>
 > 4 - < 2sc, 1inc(6x) > => 24st <br>
+> 5 - 6 ( repeat 2 rounds)  => 24st <br>
 
 <br>
 <br>
