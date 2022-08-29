@@ -78,9 +78,9 @@ If you like the idea, please consider starring my repo :)
 > 1 - mr (6st) => 6st <br>
 > 2 - 1inc(6x) => 12st <br>
 > 3 - < 1sc, 1inc(6x) > => 18st <br>
-> 4 - < 2sc, 1inc(6x) > => 24st <br>
-> 5 - 6 ( repeat 2 rounds)  => 24st <br>
-> 7 - < 2sc, 1dec(6x) >  => 18st <br>
+> 4 - 6 ( repeat 3 rounds)  => 18st <br>
+> 7 - < 1sc, 1dec(6x) >  => 12st <br>
+> 8 -   1 round => 12st <br>  
 
 <br>
 <br>
