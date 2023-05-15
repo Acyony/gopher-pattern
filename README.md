@@ -16,6 +16,7 @@ If you like the idea, please consider starring my repo :)
 
 ![Pink Gopher Crochet Amigurumi](./images/gopher.jpeg)
 
+
 ## Material
 
 - Yarn cotton (color of your choice)
@@ -61,7 +62,7 @@ _\*You can also choose different sizes if you prefer._
 
 !!!! Remember to fill with the Polyester fiber before finishing the Gopher! :)
 
-40 - < 1sc, 1dec(6x) > => 18st
+40 - < 1sc, 1dec(6x) > => 12st
 41 - < 1dec(6x)  => Finished
 ```
 
