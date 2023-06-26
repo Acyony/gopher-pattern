@@ -46,10 +46,10 @@ _\*You can also choose different sizes if you prefer._
 
 ```
 1 - Chain 10st - turn - 8sc, 5sc(inc) in the last chain, 7sc, 4sc(inc) in the last chain => 24st
-2 - 9sc, < 1inc(3x) > turn and repeat 9sc,  < 1inc(3x) > => 30st
-3 - 9sc, < 1sc, 1inc(3x) > turn and repeat 9sc, < 1sc, 1inc(3x) >  => 36st
-4 - 9sc, < 2sc, 1inc(3x) >, turn and repeat 9sc, < 2sc, 1inc(3x) > => 42st
-5 - 9sc, < 3sc, 1inc(3x) >, turn and repeat 9sc, < 3sc, 1inc(3x) > => 48st
+2 - 9sc, < 1inc(3x) >, 9sc,  < 1inc(3x) > => 30st
+3 - 9sc, < 1sc, 1inc(3x) >, 9sc, < 1sc, 1inc(3x) >  => 36st
+4 - 9sc, < 2sc, 1inc(3x) >, 9sc, < 2sc, 1inc(3x) > => 42st
+5 - 9sc, < 3sc, 1inc(3x) >, 9sc, < 3sc, 1inc(3x) > => 48st
 6 - 18 ( repeat 13 rounds)  => 48st
 19 - < 7sc, 1inc(6x) >  => 54st
 20 - 33 ( repeat 14 rounds)  => 54st
