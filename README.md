@@ -45,7 +45,7 @@ _\*You can also choose different sizes if you prefer._
 ### Body
 
 ```
-1 - Chain 10st - turn - 8sc, 5sc(inc) in the last chain, 7sc, 4sc(inc) in the last chain => 24st
+1 - Chain 10st - turn - 1aum, 8sc, 4sc(inc) in the last chain, 8sc, 1aum in the last chain => 24st
 2 - 9sc, < 1inc(3x) >, 9sc,  < 1inc(3x) > => 30st
 3 - 9sc, < 1sc, 1inc(3x) >, 9sc, < 1sc, 1inc(3x) >  => 36st
 4 - 9sc, < 2sc, 1inc(3x) >, 9sc, < 2sc, 1inc(3x) > => 42st
