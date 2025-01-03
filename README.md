@@ -9,10 +9,16 @@ I am learning the language Go, and I find Gopher to be very charismatic. So I de
 I am sharing the pattern here so that you too can make beautiful Gophers. Feel free to write to me if you have any questions or suggestions.
 I hope that, like me, you will like the idea and make lots of them.
 
-Remember to send me pictures, I will love to see the Gophers you make.
+Remember to send me pictures, I would love to see the Gophers you make.
 Have fun!!!
 
 If you like the idea, please consider starring my repo :)
+
+ <br>
+    <p>You can also check out the profile I created to showcase the Gophers I've crocheted recently.  
+    <br>
+    <a href="https://www.instagram.com/forallgopherskind?igsh=MXRqOWVyb3VqdnIwZQ%3D%3D&utm_source=qr">@ForAllGophersKind</a>
+</p>
 
 ![Pink Gopher Crochet Amigurumi](./images/gopher.jpeg)
 
